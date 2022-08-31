@@ -1,3 +1,11 @@
 p {
     color: red;
 }
+
+body {
+    background-color: rgb(134, 178, 195);
+}
+
+button {
+    color: black;
+}
