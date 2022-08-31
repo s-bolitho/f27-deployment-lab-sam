@@ -16,3 +16,11 @@ p {
     display: inline-block;
     margin-left: 70px;
 }
+
+html {
+    background-image: url('https://images.unsplash.com/photo-1661945469251-9950fd1c1caa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
