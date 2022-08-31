@@ -2,10 +2,17 @@ p {
     color: red;
 }
 
-body {
-    background-color: rgb(134, 178, 195);
+.button {
+    color: white;
+    width: 4px;
+    height: auto;
+    display: inline-block;
 }
 
-button {
-    color: black;
+.button2 {
+    color: white;
+    width: 4px;
+    height: auto;
+    display: inline-block;
+    margin-left: 70px;
 }
