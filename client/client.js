@@ -1,5 +1,7 @@
 const button = document.querySelector('button')
 
 const alertMe = () => {
-    alert('')
+    alert('🐻')
 }
+
+button.addEventListener('click', alertMe)
