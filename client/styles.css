@@ -24,3 +24,8 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+header {
+    background-color: rgb(151, 151, 193);
+    width: 110%;
+}
